@@ -1,0 +1,26 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pageheader {
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    border: 5px outset;
+    
+}
+
+ol li {
+    text-align: center;
+    font-size: 32px;
+    list-style-position: inside;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
